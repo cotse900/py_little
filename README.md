@@ -8,3 +8,6 @@
 
 # using jupyter to test python code
 - C:\Users\genig\opencv\Scripts>jupyter notebook
+
+# examples of guides on github
+- https://github.com/rvuduc/cse6040-ipynbs
