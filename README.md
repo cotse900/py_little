@@ -11,3 +11,6 @@
 
 # examples of guides on github
 - https://github.com/rvuduc/cse6040-ipynbs
+
+# intro
+- https://slides.com/rtnpro/intro-to-python
