@@ -14,3 +14,6 @@
 
 # intro
 - https://slides.com/rtnpro/intro-to-python
+
+# intervew_prep
+- [Ex_Files_Python_Data_Structures](https://github.com/prakashatul1/interview_prep)
