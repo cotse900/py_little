@@ -15,5 +15,6 @@
 # intro
 - https://slides.com/rtnpro/intro-to-python
 
-# intervew_prep
+# linkedin courses
 - [Ex_Files_Python_Data_Structures](https://github.com/prakashatul1/interview_prep)
+- [Python 3 standard library](https://github.com/JeffreyAsuncion/LearningPythonStdLib/tree/8d8e682e2b60b3eeec41c288eb3e7691a5c8fb4d/Ex_Files_Learning_Python_3_Standard_Library_2022/Exercise%20Files)
